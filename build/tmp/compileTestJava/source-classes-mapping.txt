@@ -1,0 +1,16 @@
+testSuites/testJumbo/testPruebaJumbo.java
+ testSuites.testJumbo.testPruebaJumbo
+baseDeDatos/ConsutaSku.java
+ baseDeDatos.ConsutaSku
+pages/jumbo/RecopilacionDeDatos.java
+ pages.jumbo.RecopilacionDeDatos
+testClases/pruebaJumbo/JumboProbando.java
+ testClases.pruebaJumbo.JumboProbando
+baseDeDatos/ConexionJumbo.java
+ baseDeDatos.ConexionJumbo
+baseDeDatos/ConsultaID.java
+ baseDeDatos.ConsultaID
+pages/jumbo/GuardarDatos.java
+ pages.jumbo.GuardarDatos
+baseDeDatos/InsertarBD.java
+ baseDeDatos.InsertarBD
